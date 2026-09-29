@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "visionary",
+  "description": "Say what you want, loosely; it asks until it can describe what having it looks like for you.",
+  "owner": {
+    "name": "Joe2e",
+    "url": "https://github.com/Joe2e"
+  },
+  "plugins": [
+    {
+      "name": "visionary",
+      "description": "Grills your goal as an experience, works out the how itself, learns how you think. Never builds.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

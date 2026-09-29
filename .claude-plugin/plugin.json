@@ -1,0 +1,10 @@
+{
+  "name": "visionary",
+  "version": "1.0.0",
+  "description": "Grills your goal as an experience, works out the how itself, learns how you think. Never builds.",
+  "author": {
+    "name": "Joe2e",
+    "url": "https://github.com/Joe2e"
+  },
+  "license": "MIT"
+}
